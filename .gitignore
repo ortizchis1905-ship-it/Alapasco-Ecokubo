@@ -3,3 +3,13 @@
 /profile_uploads/
 /*.zip
 /*.log
+
+/database.php
+/email_config.php
+/forgot_password.php
+/approval_email_test.php
+/approve_test.php
+/check.php
+/email_test.php
+/post_test.php
+/test_connection.php

@@ -1,0 +1,10 @@
+{
+  "format": 1,
+  "app": "runix",
+  "name": "Alapasco-EcoKubo",
+  "folderName": "alapasco-ecokubo",
+  "documentRoot": "",
+  "phpVersion": "8.5",
+  "database": null,
+  "kind": "php"
+}
